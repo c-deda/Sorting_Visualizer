@@ -1,0 +1,15 @@
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.exe.config
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.exe
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.pdb
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csprojAssemblyReference.cache
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\MainWindow.g.cs
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\App.g.cs
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer_MarkupCompile.cache
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer_MarkupCompile.lref
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\MainWindow.baml
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.g.resources
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.Properties.Resources.resources
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.GenerateResource.cache
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.exe
+C:\Users\Casey\source\repos\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.pdb
